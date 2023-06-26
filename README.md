@@ -26,7 +26,7 @@ where 1, 2 ... is the time-table id, which you get in the POST request.
 	POST http://localhost:8080/api/time-table/solve/1
 
 
-### Example data for post body:
+### Example data for post body (when Add timetable data)  :
 
 	{
 	"timeslotList": [
